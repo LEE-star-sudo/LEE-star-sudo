@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/197a5c9a-2100-4ede-9a15-afc0958ccc5c" width="60%" alt="Earth from Space" />
+</p>
 # Hi, I'm Ethan 👋
 
 I'm a Data Science student passionate about Big Data, Distributed Computing, and Quantitative Analytics. 
