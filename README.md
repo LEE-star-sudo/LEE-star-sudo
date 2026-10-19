@@ -30,3 +30,4 @@ I'm a Data Science student passionate about Big Data, Distributed Computing, and
 
 ### 📫 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ethanisallgood)
+[![X (Twitter)](https://img.shields.io/badge/X-ethanphexethan-000000?style=flat&logo=x&logoColor=white)](https://x.com/ethanphexethan)
