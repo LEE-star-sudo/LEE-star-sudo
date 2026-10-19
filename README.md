@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/197a5c9a-2100-4ede-9a15-afc0958ccc5c" width="60%" alt="Earth from Space" />
+  <img width="4032" height="3024" alt="pexels-robin-chaudhary-3320355-8704313" src="https://github.com/user-attachments/assets/8c7f4e88-dd0e-40ac-977a-a1e8aa7e1223" />
 </p>
 # Hi, I'm Ethan 👋
 
